@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-one more time  Adding a line for rebase. More changes from my feature branch.
+one more time  updating line.
 ## Purpose
 
 Sample website with plenty of files for demos
