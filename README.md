@@ -17,4 +17,4 @@ added contribute
 
 i gotback
 
-copy right 2018
+copy right 2018 all rights res
